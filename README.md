@@ -94,4 +94,6 @@ Untuk mengatasi permasalahan tersebut, diperlukan sistem berbasis basis data yan
 https://github.com/Naylaalucyuu/Sistem_Manajemen_Parkir_Kampus_otomatis.git
 
 # PROGRESS 2
+## ERD (zentity Relationship Diagram)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/04401d01-66c4-4a81-a960-2a6d8e65223d" />
 
